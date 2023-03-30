@@ -29,4 +29,6 @@ git clone https://github.com/epengo/pharmacy_app.git
 ```
 4. A forrás mappájának elhelyezése a XAMPP `htdocs` mappájában vagy a WAMP `www` mappájában.
 
+5. Megfelelő jogosultság beállítása a db mappára és tartalmára, hogy a webszerveren keresztül írni is lehessen.
+
 6. Megnyitás böngészőben: [http://localhost/pharmacy_app](http://localhost/pharmacy_app)
