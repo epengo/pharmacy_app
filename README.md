@@ -1,5 +1,7 @@
 # pharmacy_app használat
 
+## Beüzemelés docker segítségével
+
 1. Docker telepítés:
 
 [https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/)
@@ -15,7 +17,7 @@ docker build . -t app && docker run -p 8000:80 app
 
 6. Megnyitás böngészőben: [http://localhost:8000](http://localhost:8000)
 
-## beüzemelés XAMPP/WAMP segítségével
+## Beüzemelés XAMPP/WAMP segítségével
 
 1. XAMPP/WAMP telepítése megfelelő PHP verzióval
 
